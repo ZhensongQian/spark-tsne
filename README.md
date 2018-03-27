@@ -25,3 +25,7 @@ the [d3.js player](https://saurfang.github.io/spark-tsne-demo/tsne.html) instead
 - [t-SNE Julia implementation](https://github.com/lejon/TSne.jl)
 - [Barnes-Hut t-SNE](https://github.com/lvdmaaten/bhtsne/)
 - Web demo by Andrej, [here](http://cs.stanford.edu/people/karpathy/tsnejs/csvdemo.html).
+
+## See also
+ * [Some tips working with t-SNE](http://lejon.github.io)
+ * [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)
