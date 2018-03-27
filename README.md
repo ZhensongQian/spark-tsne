@@ -1,4 +1,6 @@
-# spark-tsne
+# the author stop working on this...
+
+## spark-tsne
 
 [![Join the chat at https://gitter.im/saurfang/spark-tsne](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saurfang/spark-tsne?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/erwinvaneijk/spark-tsne.svg?branch=master)](https://travis-ci.org/erwinvaneijk/spark-tsne)
 Distributed [t-SNE](http://lvdmaaten.github.io/tsne/) with Apache Spark. WIP...
@@ -22,3 +24,4 @@ the [d3.js player](https://saurfang.github.io/spark-tsne-demo/tsne.html) instead
 
 - [t-SNE Julia implementation](https://github.com/lejon/TSne.jl)
 - [Barnes-Hut t-SNE](https://github.com/lvdmaaten/bhtsne/)
+- Web demo by Andrej, [here](http://cs.stanford.edu/people/karpathy/tsnejs/csvdemo.html).
